@@ -77,7 +77,7 @@ Images are stored in the images/ folder and referenced like:
 
 ## Demo
 
-You can view the live version of this portfolio [here](#) *(replace with your deployed URL if available)*.
+You can view the live version of this portfolio [https://github.com/neelabhshukla018/Neelabh-Portfolio](#) 
 
 ---
 
