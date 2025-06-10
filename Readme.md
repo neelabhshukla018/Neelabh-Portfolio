@@ -30,7 +30,6 @@ Welcome to my personal portfolio repository! This project showcases my skills, p
 
 ---> Project Structure & File Linking This project follows a simple folder structure to organize files efficiently:
 
-
 /project-root
 │
 ├── index.html                  # Main HTML file
@@ -46,8 +45,6 @@ Welcome to my personal portfolio repository! This project showcases my skills, p
 │   └── script.js (if you add custom scripts)
 │
 └── other assets as needed
-
-
 
 How Files Are Linked
 The main HTML file (index.html) links the CSS file via:
